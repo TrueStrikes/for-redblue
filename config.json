@@ -1,0 +1,8 @@
+{
+    "bot_token": "usertoken",
+    "channel_ids": [
+        "CHANNEL_ID_1",
+        "CHANNEL_ID_2",
+        "CHANNEL_ID_3"
+    ]
+}
